@@ -18,9 +18,7 @@
 ## Connect with me:
 
 <!-- İletişim  -->
-<a href="[https://www.linkedin.com/in/tahakadirkoc/](https://www.linkedin.com/in/tahakadirkoc/)" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:70px;height:20px;">
-</a> 
+<a href="https://www.linkedin.com/in/tahakadirkoc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahakadirkoc" height="30" width="40" /></a>
 <a href="mailto:kockadirtaha3@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:kockadirtaha3@gmail.com" style="width:65px;height:20px;">
 </a>  
